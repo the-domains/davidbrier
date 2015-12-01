@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.risingabovethenoise.com/the-4-traits-of-an-exceptional-brand/'
 title: The 4 Traits of an Exceptional Brand
-datePublished: '2015-12-01T05:11:52.731Z'
-dateModified: '2015-12-01T03:37:00.892Z'
+datePublished: '2015-12-01T05:18:51.285Z'
+dateModified: '2015-12-01T05:11:52.731Z'
 sourcePath: _posts/2015-12-01-the-4-traits-of-an-exceptional-brand.md
 published: true
 inFeed: true
