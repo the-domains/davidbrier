@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DavidBrier]]></title>
         <description><![CDATA[DavidBrier]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidbrier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 05:11:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Dec 2015 05:13:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidbrier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Italian Cookie That Changed My World]]></title>
+            <description><![CDATA[<article><h1>The Italian Cookie That Changed My World</h1><p>(The original title of this post was "How an Italian Cookie Became a Noise-canceling Device" but then I thought, that might require too much explanation for anyone who has never gotten lost in the hypnotic moment of divine deliciousness, leaving the outside world to carry on at whatever decibel level it desired.</p><img src="http://www.risingabovethenoise.com/demo/wp-content/uploads/2015/11/Detail-for-Brand-Logo-Post.jpg"></article>]]></description>
+            <link>http://www.risingabovethenoise.com/the-italian-cookie-that-changed-my-world/</link>
+            <guid isPermaLink="false">1df8441f-ace8-430d-a0a6-9d4b0c121467</guid>
+            <pubDate>Tue, 01 Dec 2015 05:13:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 4 Traits of an Exceptional Brand]]></title>
             <description><![CDATA[<article><h1>The 4 Traits of an Exceptional Brand</h1><p>Exceptional brands aren't born, they're made. Let me explain. "The best way to be missed when you're gone is to stand for something when you're here." "Quit or be exceptional. Average is for losers." "Sure, ideas that spread win. But ideas that don't get spoken always fail."</p><img src="http://www.risingabovethenoise.com/demo/wp-content/uploads/2015/11/Simply-Snackin-Logo-09-RA-WIDE.jpeg"></article>]]></description>
