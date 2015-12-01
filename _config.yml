@@ -1,6 +1,6 @@
 name: DavidBrier
 favicon: null
-layout_spectrum: 0.5814038561657071
+layout_spectrum: 0.16748
 typography_spectrum: 0.29045
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.8685284131206572
-  lightness: 0.5002129969652742
-  saturation: 0.4486670307815075
-  rhythmicContrast: 0.6592730027623475
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
